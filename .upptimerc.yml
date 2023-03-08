@@ -9,6 +9,8 @@ sites:
     url: https://galleria.blanko.fi  
   - name: Monitor
     url: https://monitor.blanko.fi
+    expectedStatusCodes:
+      - 401
   - name: Ovikello
     url: https://ovikello.blanko.fi
   - name: Portainer

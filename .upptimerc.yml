@@ -8,7 +8,7 @@ sites:
   - name: Galleria
     url: https://galleria.blanko.fi  
   - name: Monitor
-    name: https://monitor.blanko.fi
+    url: https://monitor.blanko.fi
   - name: Ovikello
     url: https://ovikello.blanko.fi
   - name: Portainer

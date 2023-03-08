@@ -3,8 +3,28 @@ owner: blankory # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Blanko
+  - name: Blanko www
     url: https://blanko.fi
+  - name: Galleria
+    url: https://galleria.blanko.fi  
+  - name: Monitor
+    name: https://monitor.blanko.fi
+  - name: Ovikello
+    url: https://ovikello.blanko.fi
+  - name: Portainer
+    url: https://portainer.blanko.fi
+  - name: Sala
+    url: https://sala.blanko.fi
+  - name: Status
+    url: https://status.blanko.fi
+  - name: Tenttiarkisto
+    url: https://tentit.blanko.fi
+  - name: Tivia oulu
+    url: https://tiviaoulu.fi/
+  - name: Torvi
+    url: https://torvi.blanko.fi
+    expectedStatusCodes:
+      - 401
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 

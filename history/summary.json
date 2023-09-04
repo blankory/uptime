@@ -22,18 +22,20 @@
     "url": "https://galleria.blanko.fi",
     "icon": "https://icons.duckduckgo.com/ip3/galleria.blanko.fi.ico",
     "slug": "galleria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 745,
-    "timeDay": 956,
-    "timeWeek": 725,
-    "timeMonth": 731,
+    "timeDay": 809,
+    "timeWeek": 717,
+    "timeMonth": 729,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   },
   {
     "name": "Monitor",
@@ -114,7 +116,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +125,9 @@
     "timeWeek": 499,
     "timeMonth": 506,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 0
+    }
   },
   {
     "name": "Tenttiarkisto",

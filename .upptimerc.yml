@@ -6,7 +6,9 @@ sites:
   - name: Blanko www
     url: https://blanko.fi
   - name: Galleria
-    url: https://galleria.blanko.fi  
+    url: https://galleria.blanko.fi
+    expectedStatusCodes:
+      - 401
   - name: Monitor
     url: https://monitor.blanko.fi
     expectedStatusCodes:

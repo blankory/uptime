@@ -101,18 +101,20 @@
     "url": "https://sala.blanko.fi",
     "icon": "https://icons.duckduckgo.com/ip3/sala.blanko.fi.ico",
     "slug": "sala",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 966,
-    "timeWeek": 844,
-    "timeMonth": 812,
-    "timeYear": 849,
-    "dailyMinutesDown": {}
+    "time": 848,
+    "timeDay": 696,
+    "timeWeek": 792,
+    "timeMonth": 800,
+    "timeYear": 848,
+    "dailyMinutesDown": {
+      "2024-01-13": 0
+    }
   },
   {
     "name": "Status",
@@ -121,7 +123,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.43%",
@@ -131,6 +133,7 @@
     "timeMonth": 504,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2024-01-13": 0,
       "2023-09-09": 494,
       "2023-09-08": 1440,
       "2023-09-07": 1440,

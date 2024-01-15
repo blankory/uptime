@@ -4,10 +4,10 @@
     "url": "https://blanko.fi",
     "icon": "https://icons.duckduckgo.com/ip3/blanko.fi.ico",
     "slug": "blanko-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1922,
@@ -15,17 +15,19 @@
     "timeWeek": 2247,
     "timeMonth": 2110,
     "timeYear": 1922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-15": 2
+    }
   },
   {
     "name": "Galleria",
     "url": "https://galleria.blanko.fi",
     "icon": "https://icons.duckduckgo.com/ip3/galleria.blanko.fi.ico",
     "slug": "galleria",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.44%",
     "time": 667,
@@ -34,6 +36,7 @@
     "timeMonth": 516,
     "timeYear": 667,
     "dailyMinutesDown": {
+      "2024-01-15": 1,
       "2023-09-09": 494,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -47,10 +50,10 @@
     "url": "https://monitor.blanko.fi",
     "icon": "https://icons.duckduckgo.com/ip3/monitor.blanko.fi.ico",
     "slug": "monitor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 568,
@@ -58,16 +61,18 @@
     "timeWeek": 644,
     "timeMonth": 528,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-15": 1
+    }
   },
   {
     "name": "Ovikello",
     "url": "https://ovikello.blanko.fi",
     "icon": "https://icons.duckduckgo.com/ip3/ovikello.blanko.fi.ico",
     "slug": "ovikello",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +81,9 @@
     "timeWeek": 586,
     "timeMonth": 551,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-15": 0
+    }
   },
   {
     "name": "Portainer",
@@ -121,9 +128,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.44%",
     "time": 529,
     "timeDay": 590,
@@ -131,6 +138,7 @@
     "timeMonth": 512,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2024-01-15": 5,
       "2023-09-09": 494,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
